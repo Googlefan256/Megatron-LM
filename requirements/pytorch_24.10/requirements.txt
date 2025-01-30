@@ -12,6 +12,6 @@ zarr
 wandb
 tensorstore!=0.1.46
 torch
-triton==3.1.0
+triton
 nvidia-modelopt[torch]>=0.19.0; sys_platform != "darwin"
 nvidia-resiliency-ext
